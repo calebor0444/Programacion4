@@ -48,6 +48,12 @@ Crear o editar el archivo appsettings.json en la raíz del proyecto:
 }
 ```
 
+```C#
+Se puede tambien inyectar la cadena de conexión desde la clase principal:
+ var options = new DbContextOptionsBuilder<ChinookContext>()
+     .UseSqlServer("Server=CALEBPC\\SQLEXPRESS;Database=Chinook;Trusted_Connection=True;TrustServerCertificate=True;")
+     .Options;
+```     
 #Importante:
 
 En caso de que se desee volver a generar, debido a alguna modificación en la base de datos se puede
