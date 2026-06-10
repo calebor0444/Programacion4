@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\migrations\\20260601231507_tablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:migrations\\20260601231507_tablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\migrations\\20260601231235_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:migrations\\20260601231235_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionabasededatos-codefirst\\migrations\\contextobdmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3813F009-9E1E-63B0-013B-1321CA73B247}|ConexionABaseDeDatos.csproj|solutionrelative:migrations\\contextobdmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextoBDModelSnapshot.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\ContextoBDModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ContextoBDModelSnapshot.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\ContextoBDModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ContextoBDModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:30:10.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260601231507_TablaProductos.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\20260601231507_TablaProductos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260601231507_TablaProductos.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\20260601231507_TablaProductos.cs",
+              "RelativeToolTip": "Migrations\\20260601231507_TablaProductos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:28:53.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260601231235_Inicial.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\20260601231235_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260601231235_Inicial.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Migrations\\20260601231235_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20260601231235_Inicial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:12:35.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContextoBD.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\ContextoBD.cs",
+              "RelativeDocumentMoniker": "ContextoBD.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\ContextoBD.cs",
+              "RelativeToolTip": "ContextoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:10:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:09:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionABaseDeDatos-CodeFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:06:04.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\conexionabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:conexionabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\ejemplos\\01- primeraconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:ejemplos\\01- primeraconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\contextobd\\chinookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:contextobd\\chinookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\ejemplos\\05- busquedaporcondicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:ejemplos\\05- busquedaporcondicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\ejemplos\\06- joinsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:ejemplos\\06- joinsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\ejemplos\\07- navegacionentreentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:ejemplos\\07- navegacionentreentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|r:\\programacion 4\\repositorioprogramacioniv\\programacion4\\clase4\\conexionalabasededatos-databasefirst\\ejemplos\\02- selectsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C225A-0C81-DDFD-79C4-7354D197173D}|ConexionALaBaseDeDatos.csproj|solutionrelative:ejemplos\\02- selectsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T21:34:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T21:34:18.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionABD.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\ConexionABD.cs",
+              "RelativeDocumentMoniker": "ConexionABD.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\ConexionABD.cs",
+              "RelativeToolTip": "ConexionABD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:29:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05- BusquedaPorCondicion.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\05- BusquedaPorCondicion.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\05- BusquedaPorCondicion.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\05- BusquedaPorCondicion.cs",
+              "RelativeToolTip": "Ejemplos\\05- BusquedaPorCondicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:40:02.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "06- JoinSimple.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\06- JoinSimple.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\06- JoinSimple.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\06- JoinSimple.cs",
+              "RelativeToolTip": "Ejemplos\\06- JoinSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:40:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "07- NavegacionEntreEntidades.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\07- NavegacionEntreEntidades.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\07- NavegacionEntreEntidades.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\07- NavegacionEntreEntidades.cs",
+              "RelativeToolTip": "Ejemplos\\07- NavegacionEntreEntidades.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:39:55.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChinookContext.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\ContextoBD\\ChinookContext.cs",
+              "RelativeDocumentMoniker": "ContextoBD\\ChinookContext.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\ContextoBD\\ChinookContext.cs",
+              "RelativeToolTip": "ContextoBD\\ChinookContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:39:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02- SelectSimple.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\02- SelectSimple.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\02- SelectSimple.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\02- SelectSimple.cs",
+              "RelativeToolTip": "Ejemplos\\02- SelectSimple.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:38:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01- PrimeraConexion.cs",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\01- PrimeraConexion.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\01- PrimeraConexion.cs",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\Ejemplos\\01- PrimeraConexion.cs",
+              "RelativeToolTip": "Ejemplos\\01- PrimeraConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:38:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "R:\\Programacion 4\\RepositorioProgramacionIV\\Programacion4\\Clase4\\ConexionALaBaseDeDatos-DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T06:38:50.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
