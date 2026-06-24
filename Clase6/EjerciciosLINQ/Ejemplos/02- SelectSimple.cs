@@ -21,17 +21,12 @@ namespace EjerciciosLinq.Ejemplos
                                         cliente.FirstName,
                                         cliente.LastName
                                     }).ToList();
-
-                   
+                    
 
                     //Sintaxis de metodo
-                    var losClientes = elContextoBd.Customers
-                        .Select(c => new
-                        {
-                            c.FirstName,
-                            c.LastName
-                        })
-                        .ToList();
+                    var losClientes = elContextoBd.Customers.
+                        OrderBy(cliente=> cliente.FirstName).Where(
+                        cliente=> cliente.Country == "Brazil" && cliente.State == "SP").ToList();
 
                     Console.WriteLine("Clientes actuales:");
                     foreach (var cliente in losClientes)

@@ -8,7 +8,7 @@ namespace EjerciciosLinq
     {
         static void Main(string[] args)
         {
-            PrimeraConexion.Ejecutar();
+            NavegacionEntreEntidades.Ejecutar();
 
         }
     }

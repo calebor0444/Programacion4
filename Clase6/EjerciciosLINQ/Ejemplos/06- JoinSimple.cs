@@ -18,7 +18,7 @@ namespace EjerciciosLinq.Ejemplos
                 {
                     var facturas = elContextoBd.Invoices
                         .Join(elContextoBd.Customers,
-                            i => i.CustomerId,
+                            invoice => invoice.CustomerId,
                             c => c.CustomerId,
                             (i, c) => new
                             {
@@ -37,20 +37,20 @@ namespace EjerciciosLinq.Ejemplos
 
                     //Consulta de expresion
                     var facturas2 = (from invoices in elContextoBd.Invoices
-                                    join customers in elContextoBd.Customers on invoices.CustomerId equals customers.CustomerId
-                                    select new
-                                    {
-                                        invoices.InvoiceId,
-                                        Cliente = customers.FirstName + " " + customers.LastName,
-                                        invoices.Total
-                                    })
+                                     join customers in elContextoBd.Customers on invoices.CustomerId equals customers.CustomerId
+                                     select new
+                                     {
+                                         invoices.InvoiceId,
+                                         Cliente = customers.FirstName + " " + customers.LastName,
+                                         invoices.Total
+                                     })
                                     .Take(10)
                                     .ToList();
 
-                    
+
                 }
 
-                
+
             }
             catch (Exception ex)
             {

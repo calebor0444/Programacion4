@@ -28,6 +28,7 @@ namespace EjerciciosLinq.Ejemplos
                     {
                         Console.WriteLine($"ID Factura {factura.InvoiceId}, Cliente: {factura.Cliente} monto: ${factura.Total}");
                     }
+
                 }
             }
             catch (Exception ex)
