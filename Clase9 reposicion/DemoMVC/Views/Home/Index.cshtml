@@ -1,0 +1,113 @@
+﻿@model DemoMVC.Models.PaginatedResult<DemoMVC.Entidades.Song>
+
+@{
+    ViewData["Title"] = "Canciones";
+}
+
+<div class="container">
+    <h1 class="my-4">Listado de Canciones</h1>
+
+    @if (Model != null && Model.Items.Count > 0)
+    {
+        <div class="mb-3">
+            <span class="text-muted">
+                Mostrando <strong>@Model.Items.Count</strong> de <strong>@Model.TotalItems</strong> canciones 
+                (Página <strong>@Model.PageNumber</strong> de <strong>@Model.TotalPages</strong>)
+            </span>
+        </div>
+
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>Título</th>
+                        <th>Artista</th>
+                        <th>Álbum</th>
+                        <th>Género</th>
+                        <th>Precio</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var cancion in Model.Items)
+                    {
+                        <tr>
+                            <td>@cancion.SongId</td>
+                            <td>@cancion.Title</td>
+                            <td>@cancion.ArtistId</td>
+                            <td>@cancion.AlbumId</td>
+                            <td>@cancion.Genre</td>
+                            <td>$@cancion.UnitPrice.ToString("F2")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Paginación -->
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center">
+                @if (Model.HasPreviousPage)
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = 1 })">Primera</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = Model.PageNumber - 1 })">Anterior</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item disabled">
+                        <span class="page-link">Primera</span>
+                    </li>
+                    <li class="page-item disabled">
+                        <span class="page-link">Anterior</span>
+                    </li>
+                }
+
+                @for (int i = 1; i <= Model.TotalPages; i++)
+                {
+                    if (i == Model.PageNumber)
+                    {
+                        <li class="page-item active">
+                            <span class="page-link">@i</span>
+                        </li>
+                    }
+                    else if (i >= Model.PageNumber - 2 && i <= Model.PageNumber + 2)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+                        </li>
+                    }
+                }
+
+                @if (Model.HasNextPage)
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = Model.PageNumber + 1 })">Siguiente</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = Model.TotalPages })">Última</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item disabled">
+                        <span class="page-link">Siguiente</span>
+                    </li>
+                    <li class="page-item disabled">
+                        <span class="page-link">Última</span>
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            No hay canciones disponibles.
+        </div>
+    }
+</div>
+

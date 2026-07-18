@@ -1,0 +1,45 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="container mt-5">
+    <div class="alert alert-danger">
+        <h1 class="text-danger">❌ Error</h1>
+        <h2 class="text-danger">Ocurrió un error al procesar tu solicitud.</h2>
+    </div>
+
+    @if (Model.ShowRequestId)
+    {
+        <div class="card">
+            <div class="card-body">
+                <p>
+                    <strong>ID de Solicitud:</strong>
+                    <code>@Model.RequestId</code>
+                </p>
+            </div>
+        </div>
+    }
+
+    <div class="mt-3">
+        <h3>🔍 Diagnóstico</h3>
+        <p>
+            Para obtener más información sobre este error, intenta:
+        </p>
+        <ul>
+            <li><a href="/diagnostico" class="btn btn-info btn-sm">Ver Estado de la Base de Datos</a></li>
+            <li><a href="/" class="btn btn-primary btn-sm">Volver al Inicio</a></li>
+        </ul>
+    </div>
+
+    <div class="mt-4 p-3 bg-light border">
+        <h4>ℹ️ Información</h4>
+        <p class="text-muted">
+            Si estás en <strong>Desarrollo</strong>, puedes cambiar la variable de entorno <code>ASPNETCORE_ENVIRONMENT</code> 
+            a <strong>Development</strong> para ver más detalles del error.
+        </p>
+        <p class="text-muted">
+            En <strong>Producción</strong>, los detalles de error están ocultos por razones de seguridad.
+        </p>
+    </div>
+</div>
